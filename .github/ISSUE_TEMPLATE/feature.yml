@@ -1,0 +1,41 @@
+name: Feature
+description: Suggest an idea for the project 
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        * Before you file an issue read the Contributing guidelines.
+        * Check to make sure someone hasn't already opened a similar [issue](https://github.com/glugnith/Spot-the-difference/issues).
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: Please describe your feature briefly here.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Improvement 
+      description: How this Feature will help this project
+    validations:
+      required: true
+
+
+  - type: textarea
+    attributes:
+      label: Solution
+      description: Possible Solution/Implementation Details
+    validations:
+      required: false
+
+
+  - type: checkboxes
+    attributes:
+      label: assignees
+      description: Do you want to work on this issue?
+      options:
+        - label: Yes, I'd like to work
+          required: false
