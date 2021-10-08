@@ -62,3 +62,4 @@ In most cases, you can leave out details about how a change has been made.
 Code is generally self-explanatory in this regard (and if the code is so complex that it needs to be explained in prose, that’s what source comments are for).
 Just focus on making clear the reasons why you made the change in the first place—the way things worked before the change (and what was wrong with that), 
 the way they work now, and why you decided to solve it the way you did.
+Most of the Open-source projects may require your commits to be `Signed-off` before they can be merged. This is called *Developer Certificate of Origin* and it ensures that the project has the proper rights to use your code. Even if this is not required it is a better practice to always sign off your commits. To sign off just add `Signed-off-by: Full Name <email-address>` in the body. 
