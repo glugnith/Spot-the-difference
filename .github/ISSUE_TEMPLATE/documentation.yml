@@ -1,0 +1,39 @@
+name: Documentation Improvement
+description: Your suggestions for improving the Documentation.
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        * Before you file an issue read the Contributing guidelines.
+        * Check to make sure someone hasn't already opened a similar [issue](https://github.com/glugnith/Spot-the-difference/issues).
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: A brief description of the Documentation Improvement or New Section request.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Link to Documentation Page
+      description: Where the confusion/inconsistency/incomplete documentation is.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Screenshots
+      description: If applicable, add screenshots to help explain your problem.
+    validations:
+      required: false
+
+  - type: checkboxes
+    attributes:
+      label: assignees
+      description: Do you want to work on this issue?
+      options:
+        - label: Yes, I'd like to work
+          required: false
