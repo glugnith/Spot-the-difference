@@ -1,5 +1,7 @@
 ### Contributing
 
+Let's get ready to contribute
+
 Contributions are welcome and appreciated!
 
 ### Git Workflow to contribute to an Open Source Project:
