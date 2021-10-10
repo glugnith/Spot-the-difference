@@ -1,6 +1,6 @@
 ### Contributing
 
-Let's get ready to contribute
+Let's get ready to contribute.
 
 Contributions are welcome and appreciated!
 
