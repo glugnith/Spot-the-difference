@@ -1,0 +1,6 @@
+Found 4 differences: 
+
+    1. The cup kept on the table at right with white circle, has less white circles than in 1st image.
+    2. The part of the sofa at left where the lady with a bottle sitting with its support, has no design in 2nd image.
+    3. The lady with a white shirt sitting on the couch, above here there are 3 cups of pot. The top was has different color in both images.
+    4. At exactly centre top, between 2 white round stuff hanging, there is a yellow shining design in 1st image, but no such thing was found in 2nd image.
